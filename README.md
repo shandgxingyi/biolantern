@@ -1,7 +1,6 @@
 # 🧬 Biolantern  
 ## One-Stop Online Platform for Medical & Biological Data Analysis & Visualization
-2025-11-19 update url: http://101.126.137.85/
-2025-12-28 update url: http://101.35.122.226/ ,this site is used to develop.
+2025-12-28 update url: http://101.35.122.226/
 
 ![Biolantern Logo](https://github.com/shandgxingyi/biolantern/blob/main/mainPicture/%E5%B9%BB%E7%81%AF%E7%89%871.png)
 
